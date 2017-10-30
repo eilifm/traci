@@ -1,0 +1,4 @@
+[submodule "sumo"]
+	path = sumo
+	url = git@github.com:DLR-TS/sumo.git
+	branch = master
